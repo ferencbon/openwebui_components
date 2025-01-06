@@ -5,9 +5,7 @@ repo: https://github.com/ferencbon/openwebui_components
 version: 0.0.1
 """
 
-import os
 import requests
-from datetime import datetime
 from pydantic import BaseModel, Field
 
 
